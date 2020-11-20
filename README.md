@@ -1,4 +1,4 @@
-# Dots
+# AlphaDot
 Implemetation of a Dots game (https://en.wikipedia.org/wiki/Dots_(game)).
 
 Compile with options -D NN=X, where X is the size of the playing field.
